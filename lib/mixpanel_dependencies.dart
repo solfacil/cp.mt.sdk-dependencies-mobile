@@ -1,0 +1,1 @@
+export 'package:mixpanel_flutter/mixpanel_flutter.dart';
